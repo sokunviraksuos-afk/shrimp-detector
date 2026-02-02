@@ -27,7 +27,7 @@ https://sokunviraksuos-afk.github.io/shrimp-detector/
 
 ## 🛠️ Technologies Used
 
-- HTML  
+- HTML      
 - CSS
 
 ## 📌 Notes
