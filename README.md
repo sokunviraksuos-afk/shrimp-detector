@@ -23,7 +23,7 @@ The calculator will be ready to use immediately.
 ### Option 2: Use It Online
 You can also access the Detector using the live website link:
 
-INSERTLINKHEREEEEEEEESPACEHOLDER
+https://sokunviraksuos-afk.github.io/shrimp-detector/
 
 ## 🛠️ Technologies Used
 
