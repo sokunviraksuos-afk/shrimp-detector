@@ -5,11 +5,11 @@ It’s a lightweight, static project designed to run directly in your browser wi
 
 ## 📁 Project Overview
 
-- Static HTML calculator  
+- Static HTML detector  
 - No frameworks or build tools  
 - Runs entirely in the browser  
 
-## 🚀 How to Use the Calculator
+## 🚀 How to Use the Detector
 
 You have two options:
 
